@@ -12,7 +12,7 @@
 这是我的b站账号：[一个赛似一个](https://space.bilibili.com/1771594975)，有一期视频讲述关于轴绑定的设置，关键字：用arma3的键鼠逻辑飞DCS。
 ### 更多建议
 ①目前脚本处于开发阶段，命名空间很乱。所以我建议你将脚本交给ai分析，由ai帮你分析各个代码的具体实现。也可以让ai帮你增加功能、更改设置。<br/><br/>
-②感谢[爱认真的泡泡](https://space.bilibili.com/347194290) ，他介绍了这种实现方式。[DCS：World 鼠标模拟摇杆 | vJoy 虚拟游戏控制器](https://www.bilibili.com/opus/697225740818579477)<br/><br/>  
+②感谢[爱认真的泡泡](https://space.bilibili.com/347194290) ，他介绍了这种实现方式。[DCS：World 鼠标模拟摇杆 | vJoy 虚拟游戏控制器](https://www.bilibili.com/opus/697225740818579477)，他是基于[此贴](https://www.lfs.net/forum/post/1862759)完成的代码<br/><br/>  
 ③还有一个软件同样实现了键鼠模飞控制，我们在控制方式上有一些不同，但他关于摇杆、总距、脚舵的曲线设置非常不错，还有很多有用的小功能。如果你觉得我的脚本不适合你，试试这个由[Dawson924](https://space.bilibili.com/1738605283)制作的软件：[MouseFlightControl](https://github.com/Dawson924/MouseFlightControl/)<br/><br/>
 ### 告白
 我非常喜欢arma3，原因之一是在这款游戏中既能扮演普通士兵，操作各类武器，也能驾驶不同的载具。键鼠的优势在于通用性极强，能让桌面保持整洁，且可随时切换不同游戏场景。这也是我投入大量精力实现键鼠模拟飞行控制的核心原因。<br/><br/>
