@@ -951,10 +951,10 @@ if not key_view_vjoyaxis:
 #========================================================================== vjoy 轴与按钮映射 =========================================================================#
 v.x = int(round(vjoyaxisX))  # 滚转轴
 v.y = vjoyaxisY  # 俯仰轴
+v.z = rud_axis  # 键盘脚舵
 v.slider = th_axisL  # 左发油门
 v.dial = th_axisR  # 右发油门
-v.rz = rud_axis  # 键盘脚舵
-v.z = th_axisrz  # 滚轮油混
+v.rz = th_axisrz  # 滚轮油混
 v.rx = int(round(view_vjoyaxisX))  # 水平视角轴
 v.ry = view_vjoyaxisY  # 垂直视角轴
 v1.z = int(round(zoom_axis))  # 视角缩放轴
@@ -1009,4 +1009,5 @@ v.setButton(11,key_ButtonE)
 #脚本中部分内容由AI编写，AI给了我很大的帮助
 #这是 @爱认真的泡泡  的b站专栏 https://www.bilibili.com/opus/697225740818579477
 #据上述专栏描述，他也是基于此贴写的代码  https://www.lfs.net/forum/post/1862759
+
 #Edited finally by NewMan   2025-11-13  https://space.bilibili.com/1771594975
